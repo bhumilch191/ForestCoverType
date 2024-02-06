@@ -11,7 +11,6 @@ class TraininingPipeline:
     
     def start_model_train(self):
         try:
-            # Start model training
             obj = DataIngestion()
             train_data_path, test_data_path = obj.initiate_data_ingestion()
             print(train_data_path,test_data_path)
