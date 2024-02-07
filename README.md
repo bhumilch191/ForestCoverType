@@ -8,7 +8,7 @@ The goal is to predict seven different cover types in four different wilderness 
 Roosevelt National Forest of Northern Colorado with the best accuracy
  
 Four wilderness areas are: 
-- 1: Rawah
+- 1 Rawah
 - 2: Neota 
 - 3: Comanche Peak 
 - 4: Cache la Poudre 
