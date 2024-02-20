@@ -55,3 +55,10 @@ python app.py
 - Machine learning
 - Scikit learn
 - 🏦 Industrial Use Cases
+
+This is my application link: https://ygbg3p2hqd.us-west-2.awsapprunner.com/
+To run this application
+1. Add 'train' in last of link
+2. Then replace train with 'predict'
+3. Then upload test data file
+4. Your predicted file is ready.
